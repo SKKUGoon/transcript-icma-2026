@@ -1,0 +1,3 @@
+# Panel 2 · Sustainable Finance in Asia – current status and future landscape of transition
+
+Investors assessing transition bonds increasingly want to know whether the issuer can deliver its decarbonisation plan. BNP Paribas said that more than 100 investors surveyed looked at interim targets, controversies and the capital spending behind an issuer’s goals. JFE Steel explained why a steelmaker might revise a credible plan as electricity supply, hydrogen costs or demand for green steel changes, and why it reports those changes alongside the use of bond proceeds. Bloomberg could link each bond’s financed projects to successive versions of the issuer’s plan so investors can see which milestones changed, why they moved and how the issuer expects to meet its long-term goal.

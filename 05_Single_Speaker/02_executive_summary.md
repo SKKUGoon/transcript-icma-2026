@@ -1,0 +1,3 @@
+# Guest speech · Kazuto Uchida, President of Japan’s Government Pension Investment Fund
+
+Japan’s Government Pension Investment Fund now uses materiality as the main criterion for recognising companies’ sustainability disclosures. In fiscal 2025, its equity managers identified 89 companies with excellent disclosure and 66 whose reporting had improved significantly, with large- and mid-cap companies comparably represented among those selected. Bloomberg could link each corporate bond to its issuer’s current and prior sustainability disclosures so credit analysts can see what changed in the risks the company considers financially material.

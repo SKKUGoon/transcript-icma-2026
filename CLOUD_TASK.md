@@ -1,0 +1,20 @@
+# Sustainable bond conference transcription and takeaways
+
+Prepare the six recorded sessions for Bloomberg’s Sustainable Fixed Income Data team. In the cloud environment install script, run `bash cloud/setup.sh` with package and model downloads enabled. For transcription use `$HOME/icma-asr/bin/python` and the local multilingual model at `$HOME/icma-models/whisper-medium` with CPU and int8 compute. Check that all six M4A files decode, then verify a short Japanese passage produces Japanese text before running whole sessions.
+
+Use the [official agenda](https://www.icmagroup.org/events/9th-annual-icma-and-jsda-sustainable-bond-conference/) for session titles, roster and scheduled topics. Establish actual coverage from the recordings. Each recording gets one set of files, even if it spans agenda items.
+
+| Folder | Work to perform |
+|---|---|
+| 02_Panel_Discussion | Recover Kenji Serizawa’s Japanese turns near 12:48–15:16, 37:00–40:22 and 50:09–51:17. Retain existing English contributions and revise the summary and takeaways using the merged transcript. Two attendee notes provide context. |
+| 03_Single_Speaker | Transcribe Sadanori Ito’s entire guest speech. The existing English files contain a gap marker. Replace both, then write the summary and ten takeaways. |
+| 04_Panel_Discussion | Recover Kotaro Sueyoshi’s Japanese turns near 16:14–22:56 and 48:38–51:41. Keep the moderator’s English responses under his name. Update the summary and takeaways. |
+| 05_Single_Speaker | Existing Kazuto Uchida deliverables are complete. Check transcript equivalence, summary length and bullet count. |
+| 06_Panel_Discussion | Process the full new recording. The expected session is Panel 3 on financing climate and disaster resilience with labelled bonds in Asia. Use the attendee note for context and confirm the boundaries from the recording. |
+| 07_Panel_Discussion | Process the full new recording. The expected session is Panel 4 on sustainability reporting and impact. Check whether closing remarks are captured and attribute them separately if present. |
+
+1. **Transcript.** Assign English and Japanese work to parallel subagents. Inspect existing text, including embedded recording transcripts. Where usable English and Japanese transcripts already cover the material, start from those and skip playback, retranscription and independent checks of the Japanese wording. Where text is missing or the wrong recognition language garbles a passage, transcribe the relevant audio in its spoken language. For mixed-language sessions, segment by time or speaker before forcing a language. Keep timestamped working text for alignment. Translate clear Japanese into natural English, omit uncertain details and mark genuinely unclear passages `[unclear]`. Notes and agenda entries cannot supply missing remarks. Merge in speaking order, deduplicate interpreted repetitions and use `[Unidentified speaker]` when needed.
+2. **Files.** Save `01_transcript_en_tagged.md` using `[Speaker]: English text` and `01_transcript_en_original.md` with identical text and paragraph order after speaker labels are stripped. Work inside the corresponding session folder.
+3. **Executive summary.** From the merged transcript write `02_executive_summary.md` as one 3–5 sentence paragraph for the team head. Lead with the most consequential finding, support it with a specific example or stakeholder difference, and explain the implication where supported.
+4. **Takeaways.** Read `2025_sample_email.md` for tone. Write `02_takeaways.md` as one list of exactly ten independently usable bullets per recording, each one or two sentences with a distinct finding. Attribute observations, distinguish experience from expectations, and preserve disagreements. Use “Bloomberg could…” for an inferred opportunity and identify the data and client use. Include explicit stakeholder requests only when grounded in their words.
+5. **Validate.** Check both transcripts for text equivalence, all six summaries for length, and all six takeaway lists for exactly ten bullets. Report outstanding transcription gaps by session and time. Return changes on the task branch for review.
