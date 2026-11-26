@@ -1,4 +1,10 @@
-[unclear] (00:00–03:05)
+Good afternoon, everyone. I'm Kotaro Sueyoshi of Mizuho Securities. We've come to the last panel of the day. I hope you'll stay with us. We'll conduct much of this discussion in Japanese.
+
+Our topic is “Sustainability reporting – impact and beyond.” Impact has come up in the earlier panels. When we finance or invest in an enterprise, how do we measure the impact it produces? How do we report that information and use it in the next investment or business decision? I'd like us to think about that whole sequence. ICMA and market participants have been discussing impact reporting for the past ten years. Data are being shared and methodologies are becoming more established.
+
+Comparability is improving. I'd like us to look beyond that. If the past decade was about measuring impact, the question for the next decade is how we use those measurements. Are they actually helping us improve the impact? We'll take this in three rounds. First, how far has impact reporting come? Second, what still isn't working?
+
+In the third round we'll look at how we get from reporting to impact. How do we get from a measurement to a better outcome? Producing a report isn't the end goal. I'd like us to discuss how to use it [unclear]. Before we turn to the discussion, you may be wondering about the panelists you don't see here on stage. We also have panelists joining online. Let me check that they're with us.
 
 Before we start, let me ask a quick question. What's one thing you really like about Japan? It could be food, a place, people, or anything that comes to mind.
 
@@ -6,11 +12,63 @@ Japan is one of my favorite countries. I'm very happy to be on the panel, and I'
 
 Thank you very much. That's great to hear.
 
-[unclear] (approximately 04:05–23:34)
+Thank you for joining us, Mr. Higashi. Is your connection all right?
+
+Yes, this is Higashi from Zenkyoren. I can hear you. Thank you.
+
+Thank you. Now that we've checked the connection, let's go to the first round. Where do things stand today? How far has impact reporting come?
+
+Let's start with the investor's perspective. Mr. Higashi, could you introduce yourself and tell us about your institution's credit investments? How do you use issuers' sustainability reports and impact reporting when you invest?
+
+Thank you. I'm Shiko Higashi from Zenkyoren. I'd like to introduce the organization and our approach to investment. The first slide shows where we fit within the JA Group. Zenkyoren is the part that provides cooperative insurance, based on the principle of mutual assistance.
+
+On the second slide you can see the protection we provide our members and examples of claims we have paid. We pay out around ¥3.5 trillion a year. With severe earthquakes, windstorms and floods in different parts of the country, climate change and resilience matter directly to us. On the asset side, bonds account for around 70% of the portfolio. The credit investments I'm discussing today are part of that bond portfolio.
+
+Most of my investment experience has been in equities and alternatives. I've since moved into credit. Next slide, please. Sorry, this slide comes first. It sets out JA Kyosai's approach to the Sustainable Development Goals. Through our own business we want to sustain agriculture and the communities that depend on it.
+
+We have identified five material issues, with the environment and human rights as a foundation. I'll explain our yen credit investments under three headings. The first is continuity. To keep investing, we need a careful dialogue with issuers and a process we can repeat. The second is return, both economic and social. Choosing the right investment theme matters here. The third is transparency. How can we make the social return visible?
+
+Last year we selected three themes for yen credit investment, including health care, agriculture and support for communities. We invested in individual initiatives within each theme. This year we're looking at the entire value chain. By investing across it we hope to achieve more impact from projects that complement one another. For agricultural support, for example, we divided the chain into six stages. At each stage we identify a problem, identify a solution, and approach companies that can provide it.
+
+We invest through bonds linked to those themes. Ultimately we want to finance solutions to as many of the problems as possible and maximize the social impact. That's the outline of our approach.
+
+Thank you. You've given us a concrete example of how an investor uses impact and takes a value-chain view. I'd like to turn to a securities firm, which stands between issuers and investors. Mr. Machiyama, in sustainable finance you work with both groups.
+
+What are issuers and investors telling you about sustainability and impact reporting? What's going well, what are the challenges, and how has that changed over the last few years?
+
+Thank you for inviting me. I work in sustainable finance at Nomura Securities. I worked in London from 2018 to 2021, when this market was really taking shape. We have Zenkyoren here to give the investor perspective, so I'd like to present the issuer's side through a Japanese example, Tokyu Land Corporation. It's both a property business and a renewable energy company. The slide shows its commitment to environmental management and its ESG bonds.
+
+Since 2020 almost all of its bond issues have been ESG bonds. The chart on the right puts actual performance next to the target. It was already ahead of target in 2026 and appears on course for its 2031 target of at least 70%. On the next slide I'd like to show you its climate and nature-linked bonds. There were two issues, one in 2025 and one in 2026, in different formats. The background was the publication of ICMA's nature guidance in 2025.
+
+Soon after that guidance came out we explored whether a structure like this could work. Look at its two key performance indicators. The first is Scope 3 emissions. The second is to reach 3,000 hectares of environmental conservation area by 2030. Why Scope 3? The chart on the left shows the issuer's Scope 1 and 2 reductions. By fiscal 2025, those emissions were down 77.9% from 2019, putting the 2030 target within reach.
+
+That success created a problem for the next sustainability-linked bond. A target the issuer has nearly met is no longer ambitious. We turned to Scope 3 instead. As you can see on the right, the reduction target for 2030 is 46%. It requires action across the supply chain, which Tokyu Land can't deliver alone. The company chose to take on that challenge. This is an issuer with a substantial track record in ESG bonds.
+
+The issuer discloses information for each bond and use of proceeds. That alone isn't unusual, but the way it presents the progress of its initiatives is less common. It is a model case. Could every sustainable finance issuer in Japan do the same? In practice it's a high bar. Zenkyoren, which has joined us online, is an investor that can purchase a very large amount at once. Even when we can introduce a buyer like that, some issuers decline because of the reporting workload.
+
+Reporting can be a real barrier to issuance. If we can address it, that would open the door to more sustainable financing.
+
+Thank you. Your example makes both the good practice and its value easy to see. How can we encourage more cases like this and make use of reporting across the market?
+
+How we organize the underlying data and make it easy to use is important here. Ms. Yamamoto, what environmental disclosures does CDP ask companies and financial institutions to make, and how do market participants actually use the data you collect? We'd welcome the data provider's perspective.
+
+Thank you for inviting me. I cover the financial sector at CDP. Let me briefly introduce our work.
+
+CDP operates a global environmental disclosure system for companies, financial institutions and local governments. It started in the UK in 2000. We make organizations' responses to environmental issues visible through disclosure, so investors and financial institutions can use that information in their decisions. We started as the Carbon Disclosure Project, with a focus on climate. We subsequently added water and forests to the questionnaire. Today it covers a range of environmental issues, including biodiversity and plastics.
+
+In 2025 more than 22,000 companies disclosed through CDP. Together they represented over 60% of global market capitalization. More than 540 financial institutions and 270 purchasing organizations supported this work.
+
+Those organizations ask companies to disclose. We describe the idea as “write once, read many.” A company can disclose environmental information through CDP once, and investors, financial institutions, purchasing companies, public bodies and other stakeholders around the world can use it. Why disclose? We describe the uses as the ABCs of disclosure. A is access to capital. Companies can use disclosure to help secure financing.
+
+B is business resilience. Disclosure helps a company see where it can strengthen its resilience and competitiveness. C is compliance. We also pay particular attention to how the annual questionnaire aligns with the major international reporting frameworks and standards as they develop.
+
+We aligned the questionnaire with the TCFD framework in 2018 and with IFRS S2 in 2024. We're also progressively aligning it with TNFD disclosures, which many Japanese companies are working on. In the financial sector, institutions use the disclosures for more than just receiving a sustainability report.
+
+They use the information in credit assessments, portfolio risk analysis and engagement with clients. We've also seen CDP scores used in sustainability-linked financing. The questionnaire provides both quantitative data and qualitative answers, and institutions use the two together.
 
 Let me broaden the discussion to the global perspective, particularly emerging markets. Could you briefly introduce yourself and share how IFC approaches impact reporting to investors? IFC invests in a wide range of emerging markets. Are there reporting challenges that are particularly acute in those markets?
 
-Good afternoon or good evening, everybody, and thank you for inviting me. At the end of a long day of panels I'd like to bring a fresh perspective to the question. I'm based in Singapore and work on sustainable finance investments across Asia. I work across different instruments and themes, and that's an important part of my answer.
+Good afternoon or good evening, everybody, and thank you for inviting me. At the end of a long day of panels I'd like to bring a fresh perspective to the question. My name is Pushkala Ratan. I'm based in Singapore and work on sustainable finance investments across Asia. I work across different instruments and themes, and that's an important part of my answer.
 
 IFC plays several roles. We're an investor and an issuer, and we provide technical assistance to clients, particularly on strategy and reporting. We also mobilize additional capital, especially private capital. Those roles help us create markets for sustainable finance. Our mandate is in emerging markets, where data availability is a constraint for impact reporting. Over the last five or six years, though, we've seen growing recognition that reporting matters for the credibility and transparency of transactions. Some markets are more advanced than others, but the conversation has improved.
 
@@ -24,7 +82,33 @@ We invest in a diverse set of projects with different indicators. Investors ofte
 
 Thank you very much. We've seen a great improvement in impact reporting in emerging markets, with more still to do.
 
-[unclear] (approximately 31:10–41:09)
+Dr. Ratan has raised some of the remaining difficulties, and I'd like to explore those now. We're short of time, so could you keep your answers to about two minutes? Mr. Higashi, when you compare the reported impact across several issuers' bonds or try to aggregate it for your portfolio, what are the practical difficulties?
+
+That's exactly the problem we face. The slide shows some of our results. To start with, there are only a limited number of indicators we can quantify. We need to expand that set.
+
+Another issue is reproducibility. Calculations can become complicated, and it can be hard to establish that two figures are comparable. Even for what looks like the same indicator, issuers may use different units, levels of detail, formulas and measurement periods. For us, the first practical step is to sit down with the issuer before investing. We want to agree in advance on what results we'll be able to obtain.
+
+Thank you. We need some standardization, but impact is specific to each project. Striking that balance is difficult.
+
+Investors naturally want more information, but there is a cost to the issuer that has to produce it. Mr. Machiyama, how do Japanese issuers weigh the benefit of issuing a sustainable bond against the burden of subsequent reporting?
+
+In Japan, I think there's a substantial gap between what investors want and how issuers see it. The difference is especially pronounced in corporate finance. An issuer is asked to report annually. It's easy to say, “Surely you can do this once a year.” In practice it isn't so straightforward.
+
+A company may see little direct economic benefit. Why should it issue the bond in the first place, and why should it continue reporting after issuance? Those are fundamental questions for an issuer. There is also the question of incentives for the investor. From our position as a securities firm we talk to equity investors as well. Issuers' investor relations teams have told us about the ESG questions they receive. [unclear]
+
+One hypothesis is that investors don't see the connection to cash flow. That may help explain why this work has slowed down a little. But “investor” can mean more than one team. There's the investment team making credit or equity decisions, and there's the engagement team that works with issuers. When we speak to issuers, some are unfamiliar with the distinction. Part of our job is to help them understand that both teams have an important role.
+
+Where portfolio management and engagement work together, that can be very effective. Investors should tell issuers how the different teams use their reports. If issuers understand who is reading them, they can supply the data those readers need.
+
+That's an important point. Investors themselves have different responsibilities, so issuers need to know whom they're reporting to. More data isn't necessarily better. Ms. Yamamoto, how does CDP balance the need for standardization and comparability with the need to understand the specific impact of an individual project?
+
+A recurring question is how to retain a company's particular circumstances when you use its information.
+
+As Mr. Higashi said, investors need objective information they can compare. A common language is indispensable. If we pursue comparability too far, though, we lose sight of things that don't show up in a common indicator. Different companies' transition strategies, for instance, can become hard to distinguish. Our questionnaire therefore asks for both the common metric and the company-specific circumstances behind it.
+
+Standardized quantitative questions let users compare issuers. Other questions allow them to explore the circumstances behind the number. Of course, more questions and more information can become a burden for companies. Digital tools and AI can help organize past disclosures and identify what needs updating. CDP has begun incorporating AI into the disclosure process. We want to reduce the workload while preserving that balance.
+
+Thank you. That brings AI into the discussion as well.
 
 Comparability and context also seem to resonate at IFC. What are the greatest challenges in measuring and evaluating the impact of such diverse projects consistently? For a social project, where outcomes can be difficult to quantify, how do you decide what to measure?
 
@@ -38,7 +122,35 @@ We talk a lot about getting more data and more comparable data. Investors also n
 
 Thank you very much for sharing that.
 
-[unclear] (approximately 46:24–55:06)
+Let's go to the final round. We've heard a range of views. Our purpose is to use reporting in decisions. Producing a perfect report isn't the objective. I'll put the same question to each of you in turn and ask the interpreters to translate it as it stands. If you had to choose just one thing to make measured impact more useful in future decisions, what would you choose? Here are four options. The first is more data. The second is more comparable data.
+
+Third, a clearer story that connects the data. Fourth, candid disclosure of the challenges. My second question is what each of us can improve. What can investors, issuers, financial institutions and data providers do to turn better reporting into better impact? Please pick one point. Mr. Higashi, may we start again with the investor's view?
+
+Thank you. It's a big question. As I said earlier, being able to continue investing is very important to us.
+
+Of the three points I mentioned, quantifying the social return is particularly important. If we have a more standardized way of measuring it, that gives both issuers and investors an incentive to keep going. Of your choices I'd pick more comparable data. An issuer can come back to the market with labelled bonds, and we can keep allocating capital as an investor.
+
+First we need to make the results visible. Without that it's hard to move the more technical discussion forward. As an investor we can keep talking to issuers and agree on themes that make sense to both of us. That gives us concrete opportunities to invest.
+
+Second, we heard about the administrative burden. Investors can be flexible about how issuers meet our requirements, including their reporting obligations.
+
+Thank you. Mr. Machiyama, what would you choose from a financial institution's perspective?
+
+I'd also choose more comparable data. I'd add that we may need regulation. People use the same simple terms in very different ways. Whether you invest in equities or bonds, how impact affects cash flow is important. Even a small number of common measures would help.
+
+We need one or two yardsticks that a broad range of people can use. As Japan starts disclosure under the Sustainability Standards Board of Japan standards, we're hearing from issuers how hard the work is. On the investor side the stewardship code remains voluntary. Europe has paired corporate and investor disclosure requirements. I'm not suggesting we reproduce something as complex as that. Something a step beyond current best practice could help.
+
+Thank you. What would you choose from the perspective of a data provider?
+
+My answer overlaps with those of the previous two speakers. Companies already publish a great deal of sustainability information. The question is how to make it useful.
+
+To compare companies, follow one company over time and connect the information to a decision or a next step, I'd choose comparable data. But simply lining companies up side by side isn't sufficient. We need to retain the context each company provides.
+
+As a data provider we can improve interoperability. A company should be able to disclose information once and have it used again. Data providers can show where definitions, calculation methods and reporting boundaries match and where they differ. People could then reuse the information without having to adopt a single interpretation.
+
+We should talk with market participants about which data investors actually use. That will help us decide where to concentrate and where greater interoperability would make the biggest difference.
+
+Thank you. We've heard several ways to improve comparability.
 
 Finally, you have the advantage, or perhaps the disadvantage, of going last. Please share your thoughts.
 
@@ -48,4 +160,4 @@ This is especially important for emerging markets and emerging themes. Much of w
 
 Thank you very much.
 
-[unclear] (approximately 57:12–57:45, end of recording)
+That brings our panel to a close. Our panelists prepared in a short time and gave us a very practical discussion with concrete examples. Please join me in giving them a big round of applause. Thank you.

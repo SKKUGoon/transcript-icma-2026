@@ -1,6 +1,6 @@
 # Panel 2 · Sustainable Finance in Asia – current status and future landscape of transition
 
-[Official conference agenda](https://www.icmagroup.org/events/9th-annual-icma-and-jsda-sustainable-bond-conference/). Two Japanese responses from Kotaro Sueyoshi are marked `[unclear]` at approximately 16:14–22:56 and 48:38–51:41. The moderator’s English follow-up after each response is included.
+[Official conference agenda](https://www.icmagroup.org/events/9th-annual-icma-and-jsda-sustainable-bond-conference/). Kotaro Sueyoshi’s responses at 16:14–22:56 and 48:38–51:41 are translated from Japanese.
 
 Thank you for the introduction. It is good to see a full house and so much interest in the work of the Japan Securities Dealers Association and the International Capital Market Association (ICMA) to promote sustainable finance in Japan and across the region. Our panel has already been introduced, so let us start. We will spend the next hour on sustainable finance in Asia, particularly transition. The preceding keynote mentioned more than 500 projects under way. That is good to hear. A year after ICMA released its Climate Transition Bond Guidelines, with considerable support from Japan, issuance of labelled transition bonds has been modest. But issuance is only one measure. We are seeing developments in policy and in issuers’ frameworks. I would like us to look candidly at what is and is not working and how capital markets can finance the transition in Asia.
 
@@ -24,7 +24,13 @@ I see two benefits. First, we can diversify our funding sources. Some investors 
 
 Something struck me about the last column on your slide. For a presentation from an issuer, it said comparatively little about finance and a great deal about implementing your green transformation strategy. You could relate that directly to the company’s financial position and to reducing risk, which echoes a point from the previous panel. Sueyoshi-san, what are the issuers and investors you work with thinking about transition? What barriers do they face? From your experience in Japan and overseas, what lessons could other markets draw?
 
-[unclear]
+Good morning. I would like to pick up on the point about looking at the market as a whole. Let me give a couple of examples. In Japan, we started with pilot transactions. Issuers built up a track record in transition finance, and a market developed. The projects on this slide show the range of sectors involved. I will spare you the details, but I want to give you a sense of how much has already been done. When ICMA issued its Climate Transition Bond Guidelines last year, it gave market participants a common language.
+
+What began in Japan is spreading elsewhere in Asia and to the Middle East. The first example on the slide is a financing framework [unclear] (18:37–18:55). Look at what happens on the lending side. An institution can use the framework both to raise funds itself and to finance its customers. That is how money raised in the capital markets reaches the real economy. This framework covers seven sectors. With coverage that broad, you are bound to ask about transition washing. The framework sets out eligible activities and uses a flowchart to check projects against safeguards. The checks cover both the activity and the entity. Look beyond the institution raising the money to the business it will lend to. I think that approach could be useful elsewhere in Asia.
+
+The second example is a Korean power company. The project concerns a switch from coal-fired power to more efficient gas-fired generation. [unclear] (20:44–21:13). The issuer set out safeguards so that investors could see how the project qualified. Some details of the transaction are [unclear] (21:24–21:51), but there were investors prepared to invest if the issuer could demonstrate eligibility. Making that case can overcome a barrier to investment.
+
+What can we learn from these examples? Countries start from different places, and the priorities differ with the circumstances. What they share is the question of how to get from where they are today to net zero. Transition finance has a role here. ICMA’s guidelines give us a way to address local circumstances within a common framework.
 
 Thank you. One point you emphasised was transparency. That is important to establishing credibility, especially internationally. It is encouraging to see a US dollar transaction [unclear] (23:22–23:30). Rahul, transparency is central to your business. Taking a step back, how does Moody’s assess the growth and value of these frameworks? Is it about the substance, the disclosure, or both? What analysis do your clients actually ask you for?
 
@@ -68,7 +74,13 @@ Credibility does not require us to stick to the original timetable regardless of
 
 Given how much your strategy depends on technology and innovation, updating it over time makes sense. It is good to hear that the chief executive is personally involved. Sueyoshi-san, let me turn to the cross-border challenge. Different countries understand transition differently, and have different starting points, priorities and levels of ambition. What has your experience been, and how would you address those differences in building a genuinely cross-border transition bond market?
 
-[unclear]
+Thank you. As you say, countries differ in their energy mix, industries and economic circumstances. Mr Tezuka has just illustrated how much there is to understand about even one sector. It is a lot to ask an investor to understand every sector in every market. His chart looked ahead to 2050. How can a plan earn investors’ trust over that length of time? They need some predictability, and I think three things can help.
+
+First, we need a common language. A great deal of work has gone into developing one. Second, policy needs to complement the guidelines. Within each country, look at a particular industry or region and ask what technology it needs and what policy would support it. Use those policies alongside the Climate Transition Bond Guidelines.
+
+Third, the way bonds are marketed differs from one country to another. I took up this role in April, and that has struck me in my conversations since then. If you have only a day to market an issue, can you really explain a transition in that time? Start talking to investors well before the transaction. It takes repeated conversations to build understanding across the market.
+
+Take the Korean example again. The switch is from coal to gas. Investors will have different views about gas. We need to explain the policies that will take the country from that point to net zero and give investors the information to judge what that means for them. Those three things can give everyone a clearer view of what lies ahead. I hope ICMA will help bring the parties together.
 
 Thank you for those practical ideas. One I will follow up on is how to integrate the Climate Transition Bond Guidelines into regional work [unclear] (51:55–51:57). Rahul, you face something similar. You need a methodology that works globally for your business and your clients, yet you have to recognise the different national climate commitments and taxonomies. How do you strike that balance?
 

@@ -1,6 +1,6 @@
 # Panel 1 · New trends and guidance for investment themes under labelled bonds
 
-[Official conference agenda](https://www.icmagroup.org/events/9th-annual-icma-and-jsda-sustainable-bond-conference/). Times are measured from the start of the recording. Three responses in Japanese are marked `[unclear]` where the source transcript does not resolve the speaker’s words.
+[Official conference agenda](https://www.icmagroup.org/events/9th-annual-icma-and-jsda-sustainable-bond-conference/). Times are measured from the start of the recording. Kenji Serizawa’s Japanese responses are translated into English.
 
 [Conference host]: **00:00** And now, Mr. Nicholas Pfaff, the floor is yours.
 
@@ -28,7 +28,13 @@
 
 [Kenji Serizawa]: **12:36** Yes, thank you very much. Good morning, everyone. Firstly, I will speak in Japanese during this session, so please use the interpreting devices if you need one.
 
-[Kenji Serizawa]: **12:48–15:16** [unclear]
+[Kenji Serizawa]: **12:48** We are seeing particular interest in transition finance from high-emitting industries. Japanese government policy supports their transition, including the development and deployment of transition technologies. A new emissions trading system is also getting under way, and interest among issuers has grown. Some investors tell us that, when they invest in high-emitting industries, they would give priority to transition bonds. That demand is one reason issuers are considering issuing them.
+
+[Kenji Serizawa]: **13:44** The Japanese government is the largest issuer. We also see transition finance among Japanese power companies, [unclear], steelmakers and cement companies. I think the market will continue to grow.
+
+[Kenji Serizawa]: **14:07** We are also paying close attention to climate adaptation and resilience, and we hear that investors are very interested. Japan faces frequent natural disasters, including typhoons and earthquakes, and its infrastructure is ageing. That creates financing needs for local governments and infrastructure providers.
+
+[Kenji Serizawa]: **14:45** On the investor side, Tokio Marine is a good example. Investors taking a long-term view are increasingly interested in resilience and climate adaptation. We have even seen investors approach an issuer directly to encourage it to issue a resilience bond.
 
 [Nicholas Pfaff]: **15:16** Thank you very much. [Unclear.] I’m now going to move to another theme in our panel and focus on credibility and investability. I’ll start with you, Jason, because you bring a buy-side perspective. You’ve argued that sustainability data can address information asymmetry and reveal risks that are more difficult to identify with conventional credit and conventional bonds. As this labelled bond market expands into transition and new themes such as nature and resilience, what kind of information is genuinely useful to investors, and where are the remaining gaps?
 
@@ -70,7 +76,19 @@
 
 [Nicholas Pfaff]: **36:11** Thank you. It’s very good to have your perspective as an issuer. I’m turning to Serizawa-san, staying with resilience. A different perspective is required. With mitigation, you can identify tonnes of carbon dioxide avoided. With resilience, you’re looking at a future loss. How should issuers define eligible projects and measure impact so that resilience-themed bonds can become a scalable market?
 
-[Kenji Serizawa]: **37:00–40:22** [unclear]
+[Kenji Serizawa]: **37:00** That is a very interesting question. It can be harder to judge whether an adaptation or resilience project qualifies under the ICMA Principles than it is for a climate mitigation project.
+
+[Kenji Serizawa]: **37:22** For an adaptation or resilience project to qualify, I think you need to demonstrate its impact objectively. That makes data about the area where the bond proceeds will be spent particularly important.
+
+[Kenji Serizawa]: **37:45** For example, if the project addresses river flooding, how serious is the flood risk there, and how many people live in the area? These will be estimates, but it is important to put the figures together. With that information you can estimate the number of people affected, the cost of the damage and the number of homes that could be spared. That helps demonstrate why the project qualifies.
+
+[Kenji Serizawa]: **38:33** The availability of that data is very important, and it varies across regions and countries.
+
+[Kenji Serizawa]: **38:45** As for scale, issuers need financing and asset owners are keen to invest in resilience, so I think the market has considerable room to grow. But where local data is lacking, issuing a bond can be difficult. That could limit growth.
+
+[Kenji Serizawa]: **39:21** To give an example, the Tokyo Metropolitan Government recently issued the Tokyo Resilience Bonds, which I understand were the first of their kind in the world. Tokyo has launched a resilience project to keep residents’ daily lives and city services functioning as close to normal as possible even when a disaster strikes.
+
+[Kenji Serizawa]: **39:46** It has long-term plans for a range of hazards, including storms and flooding, volcanic eruptions, disruptions to power and communications, and infectious disease. I think that groundwork helped Tokyo issue the bonds. My point is that it matters a great deal how much data you have about the area.
 
 [Nicholas Pfaff]: **40:22** Thank you very much. For the last section of our panel, I’m going to take us to a new topic which is very prominent, data centres. [Their link to] artificial intelligence leads us to some political [issues] in how they’re perceived, from both a sustainability and a social point of view. There have been conversations around green data centres, sustainable data centres. I personally have been sceptical. I’m not sure these are sustainable things in themselves. How do we make them more sustainable, or less unsustainable? I’m going to start with a buy-side perspective. Jason, what would you need for a sustainable bond including data centres as eligible projects to be genuinely investable, something beyond financing electricity demand?
 
@@ -92,6 +110,10 @@
 
 [Nicholas Pfaff]: **49:55** Thank you very much. We’ll finish with Serizawa-san. Do you see a real opportunity to finance or refinance data centres in the labelled bond market?
 
-[Kenji Serizawa]: **50:09–51:17** [unclear]
+[Kenji Serizawa]: **50:09** Yes, I think there is an opportunity. Green bonds have already been issued to finance data centres. One measure used to determine whether a facility qualifies is PUE, or power usage effectiveness. Facilities with a PUE of 1.4 or below have already been financed through green bonds.
+
+[Kenji Serizawa]: **50:33** As others have pointed out, that measure does not tell you whether the IT equipment itself consumes less electricity. There are concerns about the effect a data centre can have on the local power supply.
+
+[Kenji Serizawa]: **50:52** I would look beyond the PUE of an individual facility and assess the whole project, including how it secures its power supply. I think that would help sustainable financing for data centres develop.
 
 [Nicholas Pfaff]: **51:17** Thank you very much for that. We’ll finish with that topic. I’d like to thank my panel, which was remarkably informative and also very disciplined. Thank you very much.

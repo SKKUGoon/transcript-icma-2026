@@ -1,0 +1,3 @@
+# Guest speech · Sadanori Ito, Ministry of Economy, Trade and Industry
+
+Japan uses sovereign transition bond proceeds to support corporate investment before projects begin to pay off, according to Sadanori Ito, the ministry’s director-general for GX promotion. He described the bonds as the foundation of Japan’s green transformation policy and said the government intends to continue issuance. One regional programme pairs data centres with carbon-free power in nine areas, reflecting a reversal in Japan’s electricity demand outlook as AI use grows. Bloomberg could link disclosed bond allocations to individual projects and their locations so investors can see which investments the proceeds actually support.
