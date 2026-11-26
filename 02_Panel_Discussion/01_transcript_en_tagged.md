@@ -28,7 +28,7 @@
 
 [Kenji Serizawa]: **12:36** Yes, thank you very much. Good morning, everyone. Firstly, I will speak in Japanese during this session, so please use the interpreting devices if you need one.
 
-[Kenji Serizawa]: **12:48** [unclear]
+[Kenji Serizawa]: **12:48–15:16** [unclear]
 
 [Nicholas Pfaff]: **15:16** Thank you very much. [Unclear.] I’m now going to move to another theme in our panel and focus on credibility and investability. I’ll start with you, Jason, because you bring a buy-side perspective. You’ve argued that sustainability data can address information asymmetry and reveal risks that are more difficult to identify with conventional credit and conventional bonds. As this labelled bond market expands into transition and new themes such as nature and resilience, what kind of information is genuinely useful to investors, and where are the remaining gaps?
 
@@ -70,7 +70,7 @@
 
 [Nicholas Pfaff]: **36:11** Thank you. It’s very good to have your perspective as an issuer. I’m turning to Serizawa-san, staying with resilience. A different perspective is required. With mitigation, you can identify tonnes of carbon dioxide avoided. With resilience, you’re looking at a future loss. How should issuers define eligible projects and measure impact so that resilience-themed bonds can become a scalable market?
 
-[Kenji Serizawa]: **37:00** [unclear]
+[Kenji Serizawa]: **37:00–40:22** [unclear]
 
 [Nicholas Pfaff]: **40:22** Thank you very much. For the last section of our panel, I’m going to take us to a new topic which is very prominent, data centres. [Their link to] artificial intelligence leads us to some political [issues] in how they’re perceived, from both a sustainability and a social point of view. There have been conversations around green data centres, sustainable data centres. I personally have been sceptical. I’m not sure these are sustainable things in themselves. How do we make them more sustainable, or less unsustainable? I’m going to start with a buy-side perspective. Jason, what would you need for a sustainable bond including data centres as eligible projects to be genuinely investable, something beyond financing electricity demand?
 
@@ -92,6 +92,6 @@
 
 [Nicholas Pfaff]: **49:55** Thank you very much. We’ll finish with Serizawa-san. Do you see a real opportunity to finance or refinance data centres in the labelled bond market?
 
-[Kenji Serizawa]: **50:09** [unclear]
+[Kenji Serizawa]: **50:09–51:17** [unclear]
 
 [Nicholas Pfaff]: **51:17** Thank you very much for that. We’ll finish with that topic. I’d like to thank my panel, which was remarkably informative and also very disciplined. Thank you very much.
